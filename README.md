@@ -9,8 +9,5 @@
   It can show data, statewise.
   
 </h4>
-![Screenshot 2024-09-16 154214](https://github.com/user-attachments/assets/0ba6b167-1bdf-49db-87d0-540)
-![Screenshot 2024-09-16 154254](https://github.com/user-attachments/assets/4a7bed2c-3172-4226-98f8-218be858df49)
-cb0a105d8)
 
 
