@@ -9,14 +9,14 @@
 
 
 <h4>
-  <h3>Key Features</h3><br>
-  Sales Overview: A high-level overview of total sales, profit, and quantity sold.<br>
-  State-wise, City-wise Sales: Analysis of sales performance across different cities of different states.<br>
-  Profitable Items: A bar chart that shows which items that are contributing most to the overall profit.<br>
-  Profit Analysis by Month: This chart tracks the monthly profit trends, helping identify which months were most profitable.<br>
-  Quarterly and State-wise Filtering: Users can dynamically filter the data by quarter or by state to get more granular insights.<br>
-  Payment Mode Breakdown: A pie chart showing payment modes.<br>
-  Customer-wise Quantity: Analyze the sales by top customers.<br>
+  <h3><b>Key Features</b></h3><br>
+  <b>Sales Overview:</b> A high-level overview of total sales, profit, and quantity sold.<br>
+  <b>State-wise, City-wise Sales</b>: Analysis of sales performance across different cities of different states.<br>
+  <b>Profitable Items</b>: A bar chart that shows which items that are contributing most to the overall profit.<br>
+  <b>Profit Analysis by Month</b>: This chart tracks the monthly profit trends, helping identify which months were most profitable.<br>
+  <b>Quarterly and State-wise Filtering</b>: Users can dynamically filter the data by quarter or by state to get more granular insights.<br>
+  <b>Payment Mode Breakdown</b>: A pie chart showing payment modes.<br>
+  <b>Customer-wise Quantity</b>: Analyze the sales by top customers.<br><br>
   
 </h4>
 
