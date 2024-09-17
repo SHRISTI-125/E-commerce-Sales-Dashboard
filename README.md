@@ -4,8 +4,11 @@
   I have created an interactive Sales Dashboard to track and analyze online sales data. The dashboard offers valuable insights into various business metrics like total sales, quantity, profit.
 </h3>
 
-<h4>![Screenshot 2024-09-17 105726](https://github.com/user-attachments/assets/bc30fcc8-fde9-41fd-87d2-1be35d059422)
+![Screenshot 2024-09-17 105726](https://github.com/user-attachments/assets/f114c4e0-b427-4bc2-9c3c-d8fba829b939)
 
+
+
+<h4>
   <h3>Key Features</h3>
   Sales Overview: A high-level overview of total sales, profit, and quantity sold.
   State-wise, City-wise Sales: Analysis of sales performance across different cities of different states.
