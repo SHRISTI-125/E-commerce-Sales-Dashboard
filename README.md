@@ -9,14 +9,14 @@
 
 
 <h4>
-  <h3>Key Features</h3>
-  Sales Overview: A high-level overview of total sales, profit, and quantity sold.
-  State-wise, City-wise Sales: Analysis of sales performance across different cities of different states.
-  Profitable Items: A bar chart that shows which items that are contributing most to the overall profit.
-  Profit Analysis by Month: This chart tracks the monthly profit trends, helping identify which months were most profitable.
-  Quarterly and State-wise Filtering: Users can dynamically filter the data by quarter or by state to get more granular insights.
-  Payment Mode Breakdown: A pie chart showing payment modes.
-  Customer-wise Quantity: Analyze the sales by top customers.
+  <h3>Key Features</h3><br>
+  Sales Overview: A high-level overview of total sales, profit, and quantity sold.<br>
+  State-wise, City-wise Sales: Analysis of sales performance across different cities of different states.<br>
+  Profitable Items: A bar chart that shows which items that are contributing most to the overall profit.<br>
+  Profit Analysis by Month: This chart tracks the monthly profit trends, helping identify which months were most profitable.<br>
+  Quarterly and State-wise Filtering: Users can dynamically filter the data by quarter or by state to get more granular insights.<br>
+  Payment Mode Breakdown: A pie chart showing payment modes.<br>
+  Customer-wise Quantity: Analyze the sales by top customers.<br>
   
 </h4>
 
@@ -29,7 +29,7 @@
 
 <h3>Conclusion</h3>
 <h4>
-  The dashboard provides a comprehensive view of key business metrics, enabling users to monitor performance across multiple dimensions, such as product profitability, sales by region, and customer behavior.By
+  The dashboard provides a comprehensive view of key business metrics, enabling users to monitor performance across multiple dimensions, such as product profitability, sales by region, and customer behavior.<br>By
   visualizing data across different dimensions, such as time, location, and payment methods, it empowers business leaders to make strategic decisions with clarity and precision, ensuring more effective planning
   and growth.
 </h4>
