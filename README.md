@@ -3,10 +3,9 @@
 <h3>This Power BI project visualizes the sales data of Madhav E-Commerce.
   I have created an interactive Sales Dashboard to track and analyze online sales data. The dashboard offers valuable insights into various business metrics like total sales, quantity, profit.
 </h3>
-![Screenshot 2024-09-17 105726](https://github.com/user-attachments/assets/2ee9acec-db55-4f1c-a294-61a7c7e998e5)
 
-<h4>
-  It can show data, statewise as well as quaterly.
+<h4>![Screenshot 2024-09-17 105726](https://github.com/user-attachments/assets/bc30fcc8-fde9-41fd-87d2-1be35d059422)
+
   <h3>Key Features</h3>
   Sales Overview: A high-level overview of total sales, profit, and quantity sold.
   State-wise, City-wise Sales: Analysis of sales performance across different cities of different states.
