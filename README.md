@@ -4,7 +4,7 @@
   I have created an interactive Sales Dashboard to track and analyze online sales data. The dashboard offers valuable insights into various business metrics like total sales, quantity, profit.
 </h3>
 
-![Screenshot 2024-09-17 105726](https://github.com/user-attachments/assets/f114c4e0-b427-4bc2-9c3c-d8fba829b939)
+![](https://github.com/user-attachments/assets/f114c4e0-b427-4bc2-9c3c-d8fba829b939)
 
 
 
